@@ -49,7 +49,7 @@
 <?php
 // DB connection info
 $host = "dkruaplv3-server.mysql.database.azure.com";
-$user = "eogulaolms@dkruaplv3-server";
+$user = "eogulaolms";
 $pwd = "6NFZRWEX2Y$rIP9y";
 $db = "ruapdb";
 
