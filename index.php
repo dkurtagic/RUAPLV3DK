@@ -50,7 +50,7 @@
 // DB connection info
 $host = "dkruaplv3-server.mysql.database.azure.com";
 $user = "eogulaolms";
-$pwd = "6NFZRWEX2Y$rIP9y";
+$pwd = '6NFZRWEX2Y$rIP9y';
 $db = "ruapdb";
 
 // Connect to MySQL
